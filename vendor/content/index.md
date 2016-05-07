@@ -10,10 +10,6 @@ Robots: index, follow
 
 %meta.description% <!-- replaced by the above Description meta header -->
 
-<<<<<<< HEAD
-<p>
-=======
->>>>>>> 841c4c0944774b20e9b30f414be7cc60650ae12b
 A program lényegében egy zenei kvízjáték, ahol a kérdések a számítógépeden található zenéidről szólnak.
 A program lejátszik egy zenerészletet, és meg kell válaszolnod a hallott zene címét, előadóját, 
 megjelenésének dátumát, vagy éppen a zenét tartalmazó album címét.

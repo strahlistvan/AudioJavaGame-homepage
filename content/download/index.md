@@ -26,5 +26,4 @@ A letöltés esetén válassza ki a könyvtárt, ahova az állományt ("AudioJav
 
 A program Java forráskódja elérhető a <a href="http://github.com/strahlistvan/AudioJavaGame" target="_blank"> GitHubon </a>. Ez egy Eclipse Java Swing project, amit bárki elolvashat, átírhat, kijavíthat.
 
-=======
 A letöltés esetén válassza ki a könyvtárt, ahova az állományt ("AudioJavaGame*.jar") menti. Ha egyből a "Zenék" mappába teszi, a nem kell használnia a tallózás gombot: bővebben olvasd el az <a href="../info"> Információk a programról </a> részt.

@@ -9,16 +9,12 @@ Robots: index, follow
 %meta.description%
 
 A letöltés az alábbi gombra kattintva kezdődik:
-<<<<<<< HEAD
 <a href="%base_url%/AudioJavaGame_v0.2_beta.jar">
-=======
 <a href="%base_url%/AudioJavaGame_v0.1_beta.jar">
->>>>>>> 841c4c0944774b20e9b30f414be7cc60650ae12b
 	<button class="btn" title="AudioJavaGame letöltése"> Letöltés </button>
 </a>
 A letöltés teljesen ingyenes, minden kötelezettségtől mentes. A program még fejlesztés alatt áll, ezért előfordulhatnak apróbb hibák a játék során.
 
-<<<<<<< HEAD
 ### Régebbi verziók 
 <ul>
    <li>  <a href="%base_url%/AudioJavaGame_v0.2_beta.jar"> AudioJavaGame_v0.2_beta.jar </a> - Néhány apróbb hiba (dupla kattintás, kérdések) javítása </li>
@@ -33,5 +29,3 @@ A program Java forráskódja elérhető a <a href="http://github.com/strahlistva
 
 =======
 A letöltés esetén válassza ki a könyvtárt, ahova az állományt ("AudioJavaGame*.jar") menti. Ha egyből a "Zenék" mappába teszi, a nem kell használnia a tallózás gombot: bővebben olvasd el az <a href="../info"> Információk a programról </a> részt.
-
->>>>>>> 841c4c0944774b20e9b30f414be7cc60650ae12b

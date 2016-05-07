@@ -10,7 +10,6 @@ Robots: index, follow
 
 A letöltés az alábbi gombra kattintva kezdődik:
 <a href="%base_url%/AudioJavaGame_v0.2_beta.jar">
-<a href="%base_url%/AudioJavaGame_v0.1_beta.jar">
 	<button class="btn" title="AudioJavaGame letöltése"> Letöltés </button>
 </a>
 A letöltés teljesen ingyenes, minden kötelezettségtől mentes. A program még fejlesztés alatt áll, ezért előfordulhatnak apróbb hibák a játék során.
